@@ -1,5 +1,6 @@
-![Seneca](http://senecajs.surge.sh/files/assets/seneca-logo.png)
+![Seneca](http://senecajs.org/files/assets/seneca-logo.png)
 > A [Seneca.js][] data storage plugin
+
 
 # seneca-level-store
 [![Build Status][travis-badge]][travis-url]
